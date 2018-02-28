@@ -44,8 +44,8 @@ It can link to a web page or to a place in the text. Text to be between [] then 
 ## 7. Mention someone so they get a notification
 Use @ and the name of the person
 
-## 8. Emojis :simple_smile:
-Use the emoji code between :   :
+## 8. Emojis :smile:
+Use the emoji code between :text:, for example \:smile\:
 To find the emoji code, use the [cheat sheet here](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
     
 ## 9. Ignore Markdown formatting
